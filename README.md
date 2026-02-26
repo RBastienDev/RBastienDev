@@ -1,9 +1,9 @@
 # Hi, I'm Rob
 
-🏫 I am a web development student at triOS college in Ontario, Canada.
-💻 As part of my course syllabus I am learning to create mobile and web-based applications.
-🎨 I enjoy drawing and design related work but also practice coding and linux terminal based workflows.
-🎮 I also hope to one day work on video game related projects.
+🏫 I am a web development student at triOS college in Ontario, Canada.</br>
+💻 As part of my course syllabus I am learning to create mobile and web-based applications.</br>
+🎨 I enjoy drawing and design related work but also practice coding and linux terminal based workflows.</br>
+🎮 I also hope to one day work on video game related projects.</br>
 
 
 
